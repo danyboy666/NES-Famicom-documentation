@@ -26,5 +26,5 @@ also ouput for multiout could be changed to this, replace 1uF cap and 39uH FC fo
 ![Screenshot_20250901_160254_Discord](https://github.com/user-attachments/assets/c42a2936-389f-46e4-b9d4-4d47c8147217)
 
 
-Picture from the from basic mod
+Picture from the from basic mod (don't mind the red and black wires they go nowhere)
 ![20250901_180043](https://github.com/user-attachments/assets/0b91dcae-13fb-492c-af7b-f610674f0296)
