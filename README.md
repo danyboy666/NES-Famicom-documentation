@@ -1,7 +1,9 @@
 # NES-Famicom-documentation
 NES/Famicom documentation
 
-This mod as bee possible to complete with the help of @RGBeter in collaboration with @zaxour and other people i might be forgetting from the nes-help discord channel
+This mod with restore audio for AV famicom 
+
+This mod as been possible with the help of @RGBeter in collaboration with @zaxour and other people I might be forgetting from the nes-help discord channel
 
 
 Basic documentation. more will follow.
