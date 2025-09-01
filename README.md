@@ -11,7 +11,7 @@ Basic documentation. more will follow.
 Original AV famicom audio path reversed engineered by me
 <img width="1206" height="1029" alt="av_fami_audio_pre_mod" src="https://github.com/user-attachments/assets/b0dbac84-68aa-4079-8347-4c642d0f027a" />
 
-@RGBeter from disdord have been a great help suggesting me to use this schematic which is base of the original famicom 
+@RGBeter from discord have been a great help suggesting me to use this schematic which is base of the original famicom 
 <img width="1206" height="1029" alt="av_fami_audio_pre_mod3" src="https://github.com/user-attachments/assets/ad465ad6-02af-4c49-aa9e-daefc739e2d2" />
 
 orginal audio path for famicom red and shite
