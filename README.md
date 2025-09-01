@@ -1,5 +1,5 @@
 # AV Famicom audio rebalance mod
-NES/Famicom documentation
+AV Famicom audio rebalance mod
 
 This mod with restore audio balance for AV famicom 
 
