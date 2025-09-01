@@ -5,6 +5,7 @@ This mod with restore audio for AV famicom
 
 This mod as been possible with the help of @RGBeter in collaboration with @zaxour and other people I might be forgetting from the nes-help discord channel
 
+https://youtu.be/wgp7kMOipns
 
 Basic documentation. more will follow.
 
