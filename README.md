@@ -7,6 +7,8 @@ This mod as been possible with the help of @RGBeter in collaboration with @zaxou
 
 https://youtu.be/wgp7kMOipns
 
+need to edit original schematic to include 330pf cap close to acc.  pin output.
+
 Basic documentation. more will follow.
 
 Original AV famicom audio path reversed engineered by me
