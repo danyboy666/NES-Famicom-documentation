@@ -1,4 +1,4 @@
-# NES-Famicom-documentation
+# AV Famicom audio rebalance mod
 NES/Famicom documentation
 
 This mod with restore audio balance for AV famicom 
