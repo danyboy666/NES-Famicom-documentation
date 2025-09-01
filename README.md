@@ -19,7 +19,11 @@ orginal audio path for famicom red and white
 ![tnAKiml](https://github.com/user-attachments/assets/c24acef5-7a1a-4cd0-bfbc-f87b37309d15)
 
 
+
 RGBeter suggest using an amp after pin 46 before send it to multiout output
 
 also ouput for multiout could be changed to this, replace 1uF cap and 39uH FC for 330 ohm and 10uF cap
 ![Screenshot_20250901_160254_Discord](https://github.com/user-attachments/assets/c42a2936-389f-46e4-b9d4-4d47c8147217)
+
+
+![20250901_180043](https://github.com/user-attachments/assets/0b91dcae-13fb-492c-af7b-f610674f0296)
