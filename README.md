@@ -1,5 +1,5 @@
 # AV Famicom audio rebalance mod
-AV Famicom audio rebalance mod
+AV Famicom audio rebalance mod with onboard JIO chip
 
 This mod with restore audio balance for AV famicom 
 
@@ -35,6 +35,7 @@ Picture from the from basic mod (don't mind the red and black wires they go nowh
 ![20250901_180043](https://github.com/user-attachments/assets/0b91dcae-13fb-492c-af7b-f610674f0296)
 
 
+AV Famicom audio rebalance mod with an 74UCH04
 
 this demo is with an 74UCH04. I've changed the 20k and 12k resistors for 10k and 5.6k. feedback resistor at 47k.
 https://youtu.be/IyiM1r6P4y0
