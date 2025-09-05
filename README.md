@@ -33,3 +33,9 @@ also ouput for multiout could be changed to this, replace 1uF cap and 39uH FC fo
 
 Picture from the from basic mod (don't mind the red and black wires they go nowhere)
 ![20250901_180043](https://github.com/user-attachments/assets/0b91dcae-13fb-492c-af7b-f610674f0296)
+
+
+
+this demo is with an 74UCH04. I've changed the 20k and 12k resistors for 10k and 5.6k. fedback resistor at 47k.
+
+zaxour recommend 5.1k and 9.4k to properly restore audio at the same level as the og famicom.
