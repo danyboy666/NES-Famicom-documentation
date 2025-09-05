@@ -48,3 +48,8 @@ zaxour recommend 5.1k and 9.4k to properly restore audio at the same level as th
 
 <img width="421" height="114" alt="image" src="https://github.com/user-attachments/assets/c6a2cd9b-0cfc-4059-9306-6b16b4fad8d1" />
 <img width="459" height="94" alt="image" src="https://github.com/user-attachments/assets/1abac8e8-65ff-401c-a98e-a2b99227bfb0" />
+
+AV Famicom audio rebalance mod with an 74UCH04, audio taken from pin 1 and 2 directly
+https://youtu.be/Jiav9FQyHyg
+
+
