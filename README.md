@@ -36,6 +36,14 @@ Picture from the from basic mod (don't mind the red and black wires they go nowh
 
 
 
-this demo is with an 74UCH04. I've changed the 20k and 12k resistors for 10k and 5.6k. fedback resistor at 47k.
+this demo is with an 74UCH04. I've changed the 20k and 12k resistors for 10k and 5.6k. feedback resistor at 47k.
+https://youtu.be/IyiM1r6P4y0
+
 
 zaxour recommend 5.1k and 9.4k to properly restore audio at the same level as the og famicom.
+
+![20250904_144728](https://github.com/user-attachments/assets/d7377174-a13d-4c0c-8dda-cf29d857ab76)
+
+
+<img width="421" height="114" alt="image" src="https://github.com/user-attachments/assets/c6a2cd9b-0cfc-4059-9306-6b16b4fad8d1" />
+<img width="459" height="94" alt="image" src="https://github.com/user-attachments/assets/1abac8e8-65ff-401c-a98e-a2b99227bfb0" />
