@@ -32,7 +32,8 @@ https://youtu.be/984OKWRvlqM?si=iO-1KLJwgtD5y-Pq
 Basic documentation. more will follow.
 for av famicom just swap R14 for a 200kohm resistor. bypass the emitter-follower, lift positive leg of C4 and bridge audio from pin 46 to it (or from positive lead of R8 to lifted positive lead of C4).
 Original AV famicom audio path reversed engineered by me
-<img width="1206" height="1029" alt="av_fami_audio_pre_mod" src="https://github.com/user-attachments/assets/b0dbac84-68aa-4079-8347-4c642d0f027a" />
+<img width="989" height="823" alt="Capture d’écran 2025-09-30 153217" src="https://github.com/user-attachments/assets/b59b905a-caff-428d-b0f2-1c748323d421" />
+
 
 @RGBeter from discord have been a great help suggesting me to use this schematic which is base of the original famicom 
 ![Screenshot_20250901_182014_Discord](https://github.com/user-attachments/assets/8ab7f5b0-f714-4ed8-a752-f6f4a288eae3)
