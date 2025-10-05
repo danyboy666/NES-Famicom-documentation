@@ -5,12 +5,14 @@ This mod with restore audio balance for AV famicom
 
 This mod as been possible with the help of @RGBeter in collaboration with @zaxour and other people I might be forgetting from the nes-help discord channel
 
+***please take note of R5, it should be labeled R14. ***
+
 https://youtu.be/wgp7kMOipns
 
 need to edit original schematic to include 330pf cap close to acc.  pin output.
 
 Basic documentation. more will follow.
-
+for av famicom just swap R14 for a 200kohm resistor. bypass the emitter-follower, lift positive leg of C4 and bridge audio from pin 46 to it (or from positive lead of R8 to lifted positive lead of C4).
 Original AV famicom audio path reversed engineered by me
 <img width="1206" height="1029" alt="av_fami_audio_pre_mod" src="https://github.com/user-attachments/assets/b0dbac84-68aa-4079-8347-4c642d0f027a" />
 
